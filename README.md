@@ -11,3 +11,5 @@
   	dependencies {
 	        implementation 'com.github.bzzhy:baselib:1.0.0'
 	}
+	
+	
